@@ -1,0 +1,7 @@
+
+S
+java:S1854"6Remove this useless assignment to local variable "in".(äÆ¾Ó8ýø¼ƒØ/
+D
+java:S1481"'Remove this unused "in" local variable.(äÆ¾Ó8†ù¼ƒØ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8ßÐ¹ƒØ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–¡¯´

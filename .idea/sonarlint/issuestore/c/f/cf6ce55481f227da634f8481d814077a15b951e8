@@ -1,0 +1,7 @@
+
+C
+java:S1481
+"(Remove this unused "sum" local variable.(²üòíþÿÿÿÿ
+[
+java:S2184"@Cast one of the operands of this integer division to a "double".(˜×Ãçûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øÖ”É

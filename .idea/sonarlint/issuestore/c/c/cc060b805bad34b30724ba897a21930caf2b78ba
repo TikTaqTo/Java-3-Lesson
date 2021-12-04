@@ -1,0 +1,7 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ8ïÃ˜û×/
+d
+java:S2184"BCast one of the operands of this division operation to a "double".(®†ôžúÿÿÿÿ8¨è½û×/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ “ô
+[
+java:S3518"9Make sure "col" can't be zero before doing this division.(®†ôžúÿÿÿÿ8Õžºû×/
